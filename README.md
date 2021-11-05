@@ -1,6 +1,6 @@
 # HSDC-CreditCardFraudDetection
 This project is about using python and machine Learning to build models that will be able to detect any credit card abnormalities or fraudulent activities.
-This project is Carried out by team vispy of hamoye internship data science track .
+This project is carried out by Team Vispy of Hamoye Internship HSDC 2021.
 
 ## Steps:
 1. Import libraries
@@ -11,4 +11,4 @@ This project is Carried out by team vispy of hamoye internship data science trac
 6. Model selection
 7. Train the model
 8. Test the model
-9. Performance
+9. Performance evaluation
